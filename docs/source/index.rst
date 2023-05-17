@@ -1,6 +1,8 @@
 Welcome to Lumache's documentation!
 ===================================
 
+.. image:: /2nd-filename.drawio.png
+
 Lumache has its documentation hosted on Read the Docs.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
