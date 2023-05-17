@@ -6,7 +6,8 @@ Welcome to Lumache's documentation!
 
 ---
 
-.. image:: docs/filename.jpg
+.. image:: /docs/filename.jpg
+   :alt: Smth went wrong again
 
 Lumache has its documentation hosted on Read the Docs..
 
