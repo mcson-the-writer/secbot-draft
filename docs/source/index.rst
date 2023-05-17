@@ -2,6 +2,7 @@ Welcome to Lumache's documentation!
 ===================================
 
 .. image:: /2nd-filename.drawio.png
+   :alt: Something went wrong
 
 ---
 
