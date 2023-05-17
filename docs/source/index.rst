@@ -1,7 +1,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-.. image:: /2nd-filename.drawio.png
+.. image:: 2nd-filename.drawio.png
 
 Lumache has its documentation hosted on Read the Docs..
 
