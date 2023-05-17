@@ -1,6 +1,11 @@
 Welcome to Lumache's documentation!
 ===================================
 
+.. image:: /hi-filename.png
+   :alt: The third attempt
+
+---
+
 .. image:: /2nd-filename.drawio.png
    :alt: Something went wrong
 
